@@ -1,0 +1,60 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Build output
+build/
+dist/
+
+# Cache files
+.cache/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Coverage directory used by testing tools
+coverage/
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.old
+*.orig
+*.log
+
+# Dependency directories
+bower_components/
+
+# React-specific
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Parcel-bundler cache
+.cache/
+
+# MacOS files
+*.DS_Store
+
+# Webpack output
+webpack/
